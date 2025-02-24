@@ -1,15 +1,20 @@
-<h1 align="left">Hey 👋</h1>
+<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Sticker_PPG_02_Silver_Wolf_01.png/revision/latest?cb=20230505074135" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=EA53F7&vCenter=true&width=435&lines=Hello%2C+I'm+Daniel+Sarzynski)](https://git.io/typing-svg) 
 
+## A little more about me...  
+
+- 📚 studying Computer Engineering at New Jersey Institute of Technology
+- 💻 I’m always looking for new opportunities to learn and grow.
+- 💪 Fun fact: I’m passionate about fitness and love hitting the gym regularly.
+- 📫 How to reach me: dsarzynski13116@gmail.com
+#### Profile Views  
+<p align="left"> 
+  <a href="https://github.com/BigBodyDan" alt="Profile Views">
+    <img src="https://count.getloli.com/@BigBodyDan?name=BigBodyDan&theme=booru-vp&padding=6&offset=0&align=top&scale=0.75&pixelated=0&darkmode=0" />
+  </a>
+</p>
+
+## <b>Languages and Tools</b>
 ###
-
-<p align="left">📚 studying Computer Engineering at New Jersey Institute of Technology</p>
-
-###
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
