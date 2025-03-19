@@ -6,12 +6,6 @@
 - 💻 I’m always looking for new opportunities to learn and grow.
 - 💪 Fun fact: I’m passionate about fitness and love hitting the gym regularly.
 - 📫 How to reach me: dsarzynski13116@gmail.com
-#### Profile Views  
-<p align="left"> 
-  <a href="https://github.com/BigBodyDan" alt="Profile Views">
-    <img src="https://count.getloli.com/@BigBodyDan?name=BigBodyDan&theme=booru-vp&padding=6&offset=0&align=top&scale=0.75&pixelated=0&darkmode=0" />
-  </a>
-</p>
 
 ## <b>Languages and Tools</b>
 ###
@@ -28,3 +22,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+#### Profile Views  
+<p align="left"> 
+  <a href="https://github.com/BigBodyDan" alt="Profile Views">
+    <img src="https://count.getloli.com/@BigBodyDan?name=BigBodyDan&theme=booru-vp&padding=6&offset=0&align=top&scale=0.75&pixelated=0&darkmode=0" />
+  </a>
+</p>
