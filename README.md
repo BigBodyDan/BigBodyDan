@@ -2,7 +2,8 @@
 
 ## A little more about me...  
 
-- 📚 studying Computer Engineering at New Jersey Institute of Technology
+- 📜 Bachelor of Science in Computer Engineering, Magna Cum Laude
+- 📃 Graduate Certificate in Software Engineering, Analysis, and Design
 - 💻 I’m always looking for new opportunities to learn and grow.
 - 💪 Fun fact: I’m passionate about fitness and love hitting the gym regularly.
 - 📫 How to reach me: dsarzynski13116@gmail.com
