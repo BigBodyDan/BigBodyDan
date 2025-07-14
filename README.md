@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Sticker_PPG_02_Silver_Wolf_01.png/revision/latest?cb=20230505074135" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=EA53F7&vCenter=true&width=435&lines=Hello%2C+I'm+Daniel+Sarzynski)](https://git.io/typing-svg) 
+<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Sticker_PPG_02_Silver_Wolf_01.png/revision/latest?cb=20230505074135" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=EA53F7&vCenter=true&width=550&lines=Hello%2C+I'm+Daniel+Sarzynski)](https://git.io/typing-svg) 
 
 ## A little more about me...  
 
